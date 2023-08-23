@@ -141,4 +141,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-Done by https://github.com/samuelkassa and https://github.com/Rahel21
+Done by https://github.com/samuelkassa and https://github.com/Rahela21
